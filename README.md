@@ -18,6 +18,6 @@ Tech Stack :
 Installation & Setup
 ```bash
 git clone https://github.com/kemboiPheniline/My-portfolio.git
-cd your-repo-name
+cd My-portfolio
 npm install
 npm run dev
